@@ -86,7 +86,6 @@ Update the following values in the code:
 ---
 
 ## Links & Resources
-- [YouTube Video Demonstration](https://youtu.be/UtReFcOLJx8)
 - [Related Blog](https://iotcircuithub.com/esp8266-projects/)
 - [ESP8266 Board Package](https://github.com/esp8266/Arduino)
 
@@ -97,7 +96,4 @@ This project is provided "as-is" for educational purposes. For any commercial us
 
 ---
 
-## Author
-- **Tech StudyCell**  
-For inquiries or further assistance, feel free to reach out or visit the linked resources above.
 
